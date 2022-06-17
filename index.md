@@ -12,6 +12,7 @@ export_on_save:
 
 *[:fa-file:]: Arquivo .pdf (slides de aula)
 *[:fa-code:]: Arquivo .ipynb (notebook Jupyter)
+*[:fa-html5:]: Arquivo .html
 *[:fa-database:]: Dataset .data
 *[:fa-bookmark:]: Biblioteca Python (necessária)
 *[:fa-pencil:]: Enunciado de exercício
@@ -44,7 +45,7 @@ export_on_save:
 
 #### 12 - Regressão linear e polinomial [:fa-file:](/conteudo/12/12regressaoML.pdf)$_1$ [:fa-file:](/conteudo/13/13regressaoML_parte2.pdf)$_2$ [:fa-code:](/conteudo/13/13regressaoML.ipynb) [:fa-database:](/conteudo/13/housing.data)
 
-#### 13 - Clustering: kMeans [:fa-code:](/conteudo/14/14kmeansML.ipynb)
+#### 13 - Clustering: kMeans [:fa-html5:](/conteudo/14/14kmeansML.html) [:fa-code:](/conteudo/14/14kmeansML.ipynb)
 
 #### 14 - Clustering: DBSCAN [:fa-file:](/conteudo/15/15dbscanML.pdf) [:fa-code:](/conteudo/15/15dbscanML.ipynb)
 
