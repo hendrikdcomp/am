@@ -12,7 +12,9 @@ export_on_save:
 
 *[:fa-file:]: Arquivo .pdf (slides de aula)
 *[:fa-code:]: Arquivo .ipynb (notebook Jupyter)
+*[:fa-database:]: Dataset .data
 *[:fa-bookmark:]: Biblioteca Python (necessária)
+*[:fa-pencil:]: Enunciado de exercício
 
 ## Aulas
 
@@ -56,11 +58,11 @@ export_on_save:
 ###### Teoria 05 [:fa-pencil:](/exercicios/T05.pdf)
 ###### Teoria 06 [:fa-pencil:](/exercicios/T06.pdf)
 
-###### Prática 01 [:fa-code:](/exercicios/P01.pdf)
-###### Prática 02 [:fa-code:](/exercicios/P02.pdf)
-###### Prática 03 [:fa-code:](/exercicios/P03.pdf)
-###### Prática 04 [:fa-code:](/exercicios/P04.pdf)
-###### Prática 05 [:fa-code:](/exercicios/P05.pdf)
+###### Prática 01 [:fa-pencil:](/exercicios/P01.pdf)
+###### Prática 02 [:fa-pencil:](/exercicios/P02.pdf)
+###### Prática 03 [:fa-pencil:](/exercicios/P03.pdf)
+###### Prática 04 [:fa-pencil:](/exercicios/P04.pdf)
+###### Prática 05 [:fa-pencil:](/exercicios/P05.pdf)
 
 **Para acesso às soluções dos exercícios práticos e teóricos, contactar o autor por e-mail*.
 
