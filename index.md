@@ -62,7 +62,7 @@ export_on_save:
 ###### Prática 02 [:fa-pencil:](/exercicios/P02.pdf)
 ###### Prática 03 [:fa-pencil:](/exercicios/P03.pdf)
 ###### Prática 04 [:fa-pencil:](/exercicios/P04.pdf)
-###### Prática 05 [:fa-pencil:](/exercicios/P05.pdf)
+###### Prática 05 [:fa-pencil:](/exercicios/P05.pdf) 
 
 **Para acesso às soluções dos exercícios práticos e teóricos, contactar o autor por e-mail*.
 
