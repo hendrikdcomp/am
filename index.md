@@ -15,7 +15,7 @@ export_on_save:
 *[:fa-html5:]: Arquivo .html
 *[:fa-database:]: Dataset .data
 *[:fa-bookmark:]: Biblioteca Python (necessária)
-*[:fa-pencil:]: Enunciado de exercício
+*[:fa-pencil:]: Enunciado de exercício 
 
 ## Aulas
 
