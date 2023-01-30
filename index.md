@@ -37,7 +37,7 @@ export_on_save:
 
 #### 8 -  Redução de dimensionalidade com PCA [:fa-file:](/conteudo/08/08pcaML.pdf) [:fa-code:](/conteudo/08/08pcaML.ipynb) [:fa-database:](/conteudo/08/wine.data)
 
-#### 9 - Avaliação de performance de modelos: validação cruzada, métricas e curva ROC. [:fa-file:](/conteudo/09/09avaliacaoML.pdfconteudo) [:fa-code:](/conteudo/09/09avaliacaoML.ipynb) [:fa-database:](/conteudo/09/wdbc.data)
+#### 9 - Avaliação de performance de modelos: validação cruzada, métricas e curva ROC. [:fa-file:](/conteudo/09/09avaliacaoML.pdf) [:fa-code:](/conteudo/09/09avaliacaoML.ipynb) [:fa-database:](/conteudo/09/wdbc.data)
 
 #### 10 - Comparação de classificadores e Testes de hipóteses [:fa-file:](/conteudo/10/10comparacaoML.pdf) [:fa-code:](/conteudo/10/10comparacaoML.ipynb)
 
